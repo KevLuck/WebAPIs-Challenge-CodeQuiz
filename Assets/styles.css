@@ -13,10 +13,7 @@ header {
     color: hsl(206, 98%, 52%);
 }
 
-#questionDisplay {
-    font-weight: bolder;
-    color: hsl(206, 98%, 52%);
-}
+
 
 .btnHeader {
     border: none;
@@ -38,6 +35,7 @@ header {
 
 #questionDisplay {
     font-size: 30px;
+    font-weight: bolder;
 
 }
 
