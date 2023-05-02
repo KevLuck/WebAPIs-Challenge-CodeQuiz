@@ -1,5 +1,5 @@
 # WebAPIs-Challenge-CodeQuiz
-Module 4
+* Module 4
 
 # Purpose
 To build an app that will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code.
@@ -12,7 +12,7 @@ To build an app that will run in the browser, and will feature dynamically updat
 # GitHub Repository Link: 
 https://github.com/KevLuck/WebAPIs-Challenge-CodeQuiz
 # Website Link:
-https://kevluck.github.io/module2/
+https://kevluck.github.io/WebAPIs-Challenge-CodeQuiz/
 
 # Screenshot:
 ![Screenshot_Quiz](https://user-images.githubusercontent.com/116979866/235765027-7bf974cb-b566-4345-94cb-ecf30a0a15e8.png)
