@@ -10,7 +10,7 @@ To build an app that will run in the browser, and will feature dynamically updat
 * JavaScript
 
 # GitHub Repository Link: 
-https://github.com/KevLuck/module2
+https://github.com/KevLuck/WebAPIs-Challenge-CodeQuiz
 # Website Link:
 https://kevluck.github.io/module2/
 
