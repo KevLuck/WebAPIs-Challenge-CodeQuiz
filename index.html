@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link
+            rel="preconnect"
+            href="https://fonts.gstatic.com"
+            crossorigin="crossorigin">
+        <link
+            href="https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap"
+            rel="stylesheet">
+        <link rel="stylesheet" href="./assets/styles.css">
+        <link href="/Assets/favicon.ico" rel="icon" type="image/x-icon"/>
+        <title>Javascript Quiz
+        </title>
+    </head>
+    <body>
+        <header>
+            <h1>JavaScript Quiz</h1>
+            <button class="btnHeader" id="view-high-scores">View High Scores</button>
+
+            <h3>Time:
+                <span id="timeLeft"></span></h3>
+
+        </header>
+
+        <div id="mainDiv">
+
+            <div id="gridContainer">
+                <center>
+                    <p id="questionDisplay">Welcome to The JavaScript Quiz!
+                        <br>
+                        Test your Knowledge</p>
+                </center>
+                <p id="finalScoreDisplay"></p>
+                <p id="enterInitials"></p>
+                <textarea id="enterInitialsTextArea"></textarea>
+
+                <button class="btn" id="answer1"></button>
+                <button class="btn" id="answer2"></button>
+                <button class="btn" id="answer3"></button>
+                <button class="btn" id="answer4"></button>
+                <button class="btn" id="submitScore"></button>
+
+            </div>
+            <button class="btnSt" id="start-quiz">Start Quiz</button>
+            <div id="answerCorrectWrongGrid"></div>
+            <p id="answerCorrectWrong"></p>
+        </div>
+
+    </section>
+
+    <script src="./assets/script.js"></script>
+</body>
+</html>
