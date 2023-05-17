@@ -159,3 +159,29 @@ h1 {
 .hide {
     display: none;
 }
+
+/* Media Queries */
+@media screen and (max-width: 768px) {
+    h1 {
+        font-size: 24px;
+    }
+
+    #start-button {
+        margin-top: 20px;
+        font-size: 20px;
+        padding: 10px 20px;
+    }
+
+    #quiz-section {
+        padding: 10px;
+    }
+
+    #question {
+        padding-left: 10px;
+    }
+
+    .choice {
+        font-size: 16px;
+        padding: 8px 16px;
+    }
+}
